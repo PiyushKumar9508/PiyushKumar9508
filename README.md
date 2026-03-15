@@ -17,13 +17,11 @@
 <ul>
 <li>🎓 I'm pursuing <b>B.Tech in Information Technology</b> from Institute of Engineering & Management, Kolkata</li>
 
-<li>🌱 I'm currently learning <b>Frontend Web Development & ServiceNow Platform</b></li>
+<li>🌱 I'm currently learning <b>Full Stack Development & ServiceNow Platform</b></li>
 
-<li>👯 I'm looking to collaborate on <b>Web Development projects</b></li>
+<li>👯 I'm looking for <b>Web Development projects</b></li>
 
 <li>🤖 Interested in <b>AI/ML and Intelligent Systems</b></li>
-
-<li>💬 Ask me about <b>HTML, CSS, JavaScript, Java, Python</b></li>
 
 <li>📫 Reach me at: <b>ps923429@gmail.com</b></li>
 
@@ -49,9 +47,9 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Piyushkumar9508&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushKumar9508&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -60,7 +58,7 @@
 <h2>🔥 GitHub Streak</h2>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PiyushKumar9508&theme=tokyonight"/>
 </p>
 
 ---
@@ -73,7 +71,7 @@
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://github.com/YOURUSERNAME">
+<a href="https://github.com/PiyushKumar9508">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 

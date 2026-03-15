@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=PiyushKumar9508&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
@@ -67,7 +67,7 @@
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/piyush-kumar-8605b428b">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 

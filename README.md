@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Piyush Kumar</h1>
-<h3 align="center">Information Technology Undergraduate | Backend & AI/ML Enthusiast</h3>
+<h1 align="center">Hii I'm Piyush👋 Welcome to My GitHub Profile</h1>
+<h3 align="center">Full Stack Developer | AI/ML Enthusiast | Currently Learning ServiceNow Platform</h3></h3>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20views&color=0e75b6&style=flat"/>
@@ -13,7 +13,7 @@
 
 🎓 B.Tech in Information Technology (2023–2027) — Institute of Engineering & Management, Kolkata  
 
-💻 Backend & Full-Stack Developer with interest in **scalable systems and machine learning**
+💻 Full-Stack Developer with interest in **scalable systems and machine learning**
 
 🌱 Currently learning **ServiceNow Platform & Advanced Backend Development**
 
